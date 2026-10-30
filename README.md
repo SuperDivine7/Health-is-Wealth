@@ -15,4 +15,16 @@ Does my mood change based on activity level?
 
 Is there a relationship between hours of sleep and weight?
 
+## Data Dictionary
+
+| Column | Data Type | Data Description
+|-----------|-----------|-----------|
+|Date | Date | YYYY-MM-DD |
+|Time | Time | HH:MM |
+|Calories | Int | Number of calories consumed in a single day |
+|Weight | Float | Measured in kilograms |
+|Sleep | Float | Measure in hours |
+|Activity | Int | Measured in minutes|
+|Mood | Int | Measured on a scale of 1 to 5, where 1 = Very bad, 3 = Neutral and 5 = Very good |
+
 
