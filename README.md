@@ -26,5 +26,6 @@ Is there a relationship between hours of sleep and weight?
 |Sleep | Float | Measure in hours |
 |Activity | Int | Measured in minutes|
 |Mood | Int | Measured on a scale of 1 to 5, where 1 = Very bad, 3 = Neutral and 5 = Very good |
+|Screen Time | Float | Measured in hours |
 
 
